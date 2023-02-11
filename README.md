@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DL project development and job searching
 - 📫 Reach me on my mail 📧venu.banaras@gmail.com or my Kaggle account :-https://www.kaggle.com/venubanaras
 - Self-learner
-- Avid and hardworking 
+- Avid learner and hardworking 
 - Like solving problems
 - Proud Indian
 <!---
