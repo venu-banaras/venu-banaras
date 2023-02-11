@@ -6,7 +6,7 @@
 - Self-learner
 - Avid learner and hardworking 
 - Like solving problems
-- Proud Indian
+- Proud Indian 🇮🇳
 <!---
 venu-banaras/venu-banaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
