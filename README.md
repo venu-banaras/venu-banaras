@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Singh from Varanasi, UP, India
-- 👀 I’m interested in Deep Learning and it's application in the defence and finance sector
-- 🌱 I’m currently learning Tensorflow, OpenCV, creating datasets and Flask
+- 👀 I’m interested in Deep Learning and Computer Vision
+- 🌱 I’m currently learning PyTorch, OpenCV, creating datasets, and Flask
 - 💞️ I’m looking to collaborate on DL project development and job searching
 - 📫 Reach me on my mail 📧venu.banaras@gmail.com or my Kaggle account :-https://www.kaggle.com/venubanaras
 - Self-learner
